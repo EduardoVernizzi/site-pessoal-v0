@@ -1,0 +1,48 @@
+body {
+  background-color: white;
+
+}
+
+hr {
+  width: 4%;
+  height: 50%;
+  border-top: 8px;
+  border-style: dotted none none none;
+  background-color: white;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #66BFBF;
+}
+
+
+.a {
+  color: #66BFBF;
+}
+
+textarea {
+  background-color: white;
+  transition: 0.4s;
+  margin-top: 7px;
+}
+
+textarea:hover {
+  box-shadow: 0px 0px 17px rgba(44, 184, 234, 0.765);
+  transition: 0.4s;
+}
+
+input {
+  margin-top: 5px;
+}
+
+input:hover {
+  box-shadow: 0px 0px 17px rgba(44, 184, 234, 0.765);
+  transition: 0.4s;
+}
+
+img {
+  filter: drop-shadow(0px 0px 5px rgba(44, 184, 234, 0.765));
+}
