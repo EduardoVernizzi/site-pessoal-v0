@@ -12,6 +12,7 @@ No desenvolvimento deste site, foram abordados os seguintes conceitos:
   - Criação e formatação de **tabelas** com diferentes tipos de dados.
   - Adição de **links** internos e externos utilizando a tag `<a>`.
   - **Inserção de imagens** com a tag `<img>`, incluindo atributos como `src` e `alt`.
+  - Utilização de formulários e inputs.
 
 - **CSS**:
   - Aplicação de **estilos básicos** para modificar a aparência dos elementos HTML, como cor de fundo, tamanhos e margens.
